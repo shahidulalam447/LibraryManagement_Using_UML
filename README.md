@@ -4,11 +4,11 @@ The Library Management System is a software for the purpose of monitoring and co
 
 ### 1. **Use Case Diagram**   
 
-![image](https://github.com/shahidulalam447/LibraryManagement_Using_UML/blob/main/useCase.png)
+![image](https://github.com/shahidulalam447/LibraryManagement_Using_UML/blob/main/useCase2.png)
 
 ### 2. **Class Diagram**
 
-![image](https://github.com/shahidulalam447/LibraryManagement_Using_UML/blob/main/class.png)
+![image](https://github.com/shahidulalam447/LibraryManagement_Using_UML/blob/main/class2.png)
 
 ### 3. **Sequence Diagram**
 
